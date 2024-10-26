@@ -9,5 +9,5 @@ API_HASH = getenv("API_HASH","a069bf02806468fe18427ab6b9a3bb6c")
 BOT_TOKEN = getenv("BOT_TOKEN","7158045860:AAFK9c1BRAQd2fM2Zyctbiz4y-iDFMVe8Rc")
 OWNER_ID = int(getenv("OWNER_ID","6283192619"))
 
-MONGO_DB_URI = getenv("mongodb+srv://DxLEGEND143:DxLEGEND143@dxlegend.oztipqk.mongodb.net/?retryWrites=true&w=majority&appName=DxLEGEND")
+MONGO_DB_URI = getenv("MONGO_DB_URI","mongodb+srv://DxLEGEND143:DxLEGEND143@dxlegend.oztipqk.mongodb.net/?retryWrites=true&w=majority&appName=DxLEGEND")
 MUST_JOIN = getenv("MUST_JOIN","KSD_BOT_NETWORK")
